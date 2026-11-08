@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/what-to-see-in-chongqing/</loc>
+    <loc>http://example.com/what-to-eat-in-chongqing/</loc>
     
     <lastmod>2026-11-08</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/what-to-eat-in-chongqing/</loc>
+    <loc>http://example.com/what-to-see-in-chongqing/</loc>
     
     <lastmod>2026-11-08</lastmod>
     
@@ -38,7 +38,7 @@
 
   
   <url>
-    <loc>http://example.com/tags/Chongqing-travel-tips/</loc>
+    <loc>http://example.com/tags/Chongqing-food/</loc>
     <lastmod>2026-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -52,7 +52,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/Chongqing-food/</loc>
+    <loc>http://example.com/tags/Chongqing-travel-tips/</loc>
     <lastmod>2026-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
