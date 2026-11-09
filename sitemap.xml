@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/chongqing-travel-tips/</loc>
+    <loc>http://example.com/what-to-eat-in-chongqing/</loc>
     
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/what-to-eat-in-chongqing/</loc>
+    <loc>http://example.com/chongqing-travel-tips/</loc>
     
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +22,7 @@
   <url>
     <loc>http://example.com/what-to-see-in-chongqing/</loc>
     
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,43 +31,43 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://example.com/tags/Chongqing-food/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <loc>http://example.com/tags/Chongqing-travel-tips/</loc>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/China-travel-guide/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/Chongqing-travel-tips/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <loc>http://example.com/tags/Chongqing-food/</loc>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/Chongqing-travel/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/Chongqing-attractions/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -76,7 +76,7 @@
   
   <url>
     <loc>http://example.com/categories/Chongqing-Travel/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
